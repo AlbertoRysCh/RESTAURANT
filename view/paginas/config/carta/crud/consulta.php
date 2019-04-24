@@ -4,7 +4,7 @@
                     <th scope="col">id</th>
                     <th scope="col">Mesa</th>
                     <th scope="col">Precio</th>
-                    <th scope="col">Editar Eliminar</th>
+                    <th scope="col">Editar deletee</th>
                  
                     </tr>
                 </thead>
